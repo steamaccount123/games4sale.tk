@@ -37,5 +37,21 @@
 
 
 .best-coupon-codes-link {
-    background-color: #FF2400;
+    background-color: #ff4a2e;
+}
+
+.my-custom-a:hover {
+    color: white;
+}
+
+.my-custom-a:active {
+    color: white;
+}
+
+.my-custom-a:visited {
+    color: white;
+}
+
+.my-custom-a:link {
+    color: white;
 }
