@@ -58,3 +58,7 @@
 .nav-bar-main {
     color: black;
 }
+
+.my-img-header {
+   overflow: hidden;
+}
